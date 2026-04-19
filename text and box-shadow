@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>
+            Text-Shadow and Box-Shadow
+        </title>
+        <style>
+            h1{
+                text-shadow:3px 2px 0px red;
+            }
+            p{
+                box-shadow:6px 10px 2px black;
+            }
+            h2{
+                text-indent:40%; 
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            Text Shadow and Box Shadow
+        </h1>
+        <p>
+            The CSS properties text-shadow and box-shadow are both used to add depth and visual effects, but they apply to different elements and have slightly different functionalities. The key distinction is that text-shadow is for text only, while box-shadow is for the entire element's box model. 
+        </p>
+        <h2>
+            This is an example of text indent.
+        </h2>
+    </body>
+</html>
