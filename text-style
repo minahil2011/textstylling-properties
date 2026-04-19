@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            Text style properties
+        </title>
+        <style>
+            p{
+            color:rgb(230, 86, 86);
+            font-family:cursive;
+            }
+            h1{
+                color:rgb(33, 14, 196);
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            Typography
+        </h1>
+        <p>
+            Typography is the art and technique of arranging, selecting, and styling letterforms to make written language legible, readable, and visually appealing. It involves managing typefaces, font sizes, line lengths, and spacing to convey tone, enhance design, and strengthen brand identity.
+        </p>
+    </body>
+</html>
